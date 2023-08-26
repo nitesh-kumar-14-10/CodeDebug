@@ -9,8 +9,8 @@ Direct communication between patients and doctors.
 Effortless appointment scheduling based on availability.
 
 🚀 Tech Stack:
-Frontend: [ReactJs]
-Backend: [NodeJs, Javascript]
-Database: [MongoDB]
+Frontend: [html,css,bootstrap]
+Backend: [Php, Javascript]
+Database: [phpmyadmin]
 Data Visualization: [Python]
 
