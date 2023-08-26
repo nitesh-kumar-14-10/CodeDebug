@@ -13,4 +13,9 @@ Frontend: [html,css,bootstrap]
 Backend: [Php, Javascript]
 Database: [phpmyadmin]
 Data Visualization: [Python]
-
+  Fisrt step 1:- Download a xampp and open it.
+             2:-  Download a project File HealthCare open it in (xampp htdoc file)
+             3:- Open the xampp and start apache and my sql
+             4:- open loclhost phpmyadmin create a database myhmsdb.sql file name database and import file from code
+             5:- open localhost/HealthCare to check the project
+             6:- admin panel id is- admin and password is- admin123
